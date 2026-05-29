@@ -1,5 +1,10 @@
 # Customer Personality Analysis & Segmentation Using Data Mining Techniques
 
+
+## Note
+
+GitHub preview may not be available for the main notebook. Please use the Raw option or download the notebook to view the complete content.
+
 ## Overview
 
 This project analyzes customer behavior using the Customer Personality Analysis dataset from Kaggle. The objective is to apply data mining techniques to discover customer segments, support marketing decision-making, and optimize analytical models.
@@ -79,9 +84,10 @@ A complete pipeline combining preprocessing, clustering, fuzzy logic, and geneti
 
 ## Repository Structure
 
-* `DataMiningProject.ipynb` – Main notebook
-* `Report.pdf` – Project report
-* `dataset/` – Dataset files
+* `Customer_Analysis_Data Mining.ipynb` – Main notebook 
+# GitHub preview may not be available for this notebook. Please use the Raw option or download the notebook to view the complete content.
+
+* `marketing_campaign.csv/` – Dataset files
 
 
 ## Dataset Link
@@ -89,3 +95,4 @@ A complete pipeline combining preprocessing, clustering, fuzzy logic, and geneti
 https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 ### Developed as part of a 7-member team
+
