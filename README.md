@@ -1,9 +1,10 @@
 # Customer Personality Analysis & Segmentation Using Data Mining Techniques
 
-
 ## Note
 
-GitHub preview may not be available for the main notebook. Please use the Raw option or download the notebook to view the complete content.
+**⚠️ GitHub may not render this notebook due to its size and complexity**
+
+Please use the **Raw** option or **download** the notebook to view the complete project.
 
 ## Overview
 
